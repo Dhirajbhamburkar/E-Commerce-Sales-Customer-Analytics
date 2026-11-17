@@ -40,6 +40,26 @@ Created relationships between Customers, Orders, Order Items, Products, and Cale
 5. Customer Value & Retention Analysis
 6. Executive Summary
 
+## Power BI Dashboard Preview
+
+### 1. Sales Performance Dashboard
+![Dashboard-Screenshots/Sales-Performance.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Sales-Performance%20Dashboard.png)
+
+### 2. Customer Analytics Dashboard
+![Dashboard-Screenshots/Customer-Analytics.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Customer-Analytics%20Dashboard.png)
+
+### 3. Product & Category Dashboard
+![Dashboard-Screenshots/Product-Category.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Product-Category%20Dashboard.png)
+
+### 4. Orders & Payment Dashboard
+![Dashboard-Screenshots/Orders-Payment.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Orders-Payment%20Dashboard.png)
+
+### 5. Customer Value & Retention Dashboard
+![Dashboard-Screenshots/Customer-Retenton.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Customer-Retention%20Dashboard.png)
+
+### 6. Executive Summary Dashboard
+![Dashboard-Screenshots/Executive-Summary.png](https://github.com/Dhirajbhamburkar/E-Commerce-Sales-Customer-Analytics/blob/main/Dashboard%20Images/Executive-Summary%20Dashboard.png)
+
 ## Key Business Insights
 - Electronics generated the highest revenue among product categories.
 - Mumbai was the highest-revenue city.
